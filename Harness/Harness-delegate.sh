@@ -1,7 +1,8 @@
 
 
-#!/bin/bash
+#!/bin/bash/
 ####Installing docker-delegate
+chmod 777 Docker-delegate.sh
 sh Docker-delegate.sh
 
 #####Installing k8s-delegate
